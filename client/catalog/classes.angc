@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div class="angliteka-catalog" version="1.1">
+{
+    "classes": {
+        "_index_": ["c3","c4","c5"],
+        "c3": { 
+            "title":"Year 3", 
+            "state":"active",
+            "units": {"_index_": ["u1","u2","u3","u4","u5","u6","u7","u8","u9"],
+		"u1":{"uri":"year3/unit1", "title":"Unit 1 - Numbers - part 1"},                
+		"u2":{"uri":"year3/unit2", "title":"Unit 2 - Numbers - part 2"},
+                "u3":{"uri":"year3/unit3", "title":"Unit 3 - Colours - part 1"},
+                "u4":{"uri":"year3/unit4", "title":"Unit 4 - Colours - part 2"},
+                "u5":{"uri":"year3/unit5", "title":"Unit 5 - My family"},
+                "u6":{"uri":"year3/unit6", "title":"Unit 6 - Look at me - part 1"},
+		"u7":{"uri":"year3/unit7", "title":"Unit 7 - Look at me - part 2"},
+		"u8":{"uri":"year3/unit8", "title":"Unit 8 - In a pet shop - part 1"},
+                "u9":{"uri":"year3/unit9", "title":"Unit 9 -  - HI part 1"}
+            } 
+        },
+        "c4": { 
+            "title":"Year 4", 
+            "state":"active",
+            "units": {"_index_": ["u2","u3","u4"],
+                "u2":{"uri":"year4/unit2", "title":"Unit 2"},
+                "u3":{"uri":"year4/unit3", "title":"Unit 3"},
+                "u4":{"uri":"year4/unit4", "title":"Unit 4"}
+            } 
+        },
+        "c5": { 
+            "title":"Year 5", 
+            "state":"active",
+            "units": {"_index_": ["u2","u3","u4","u5","u6","u7","u8"],
+                "u2":{"uri":"year5/unit2", "title":"Unit 2"},
+                "u3":{"uri":"year5/unit3", "title":"Unit 3"},
+                "u4":{"uri":"year5/unit4", "title":"Unit 4"},
+                "u5":{"uri":"year5/unit5", "title":"Unit 5 v3"},
+                "u6":{"uri":"year5/unit6", "title":"Unit 6 v3"},
+                "u7":{"uri":"year5/unit7", "title":"Unit 7 v2"},
+                "u8":{"uri":"year5/unit8", "title":"Unit 8 v1"}
+            } 
+        }
+    }
+}
+</div>
