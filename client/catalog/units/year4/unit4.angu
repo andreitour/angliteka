@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div class="angliteka-unit" version="3.0">
+{
+  "vocabulary": {
+    "_index_": [
+      "one",
+      "two"
+    ],
+    "one": {
+      "text1": "Number one",
+      "text2": "Цифра один"
+    },
+    "two": {
+      "text1": "Number two",
+      "text2": "Цифра два"
+    }
+  },
+  "activities": {
+    "_index_": [
+      "a1"
+    ],
+    "a1": {
+      "qTemplate": {
+        "answerType": "q-select-links-dnd",
+        "description": "Question description text",
+        "backgroundImg": "river2",
+        "items": {
+          "item1": {
+            "role": "other",
+            "size": {
+              "width": 150,
+              "height": 150
+            },
+            "pos": {
+              "x": 119.06613159179688,
+              "y": 70.50582122802734
+            },
+            "img": "kite_pink",
+            "audio": "q-item-audio",
+            "text1": {
+              "value": "item1 text1",
+              "color": "red",
+              "fontSize": 20,
+              "pos": {
+                "x": 50,
+                "y": 50
+              }
+            },
+            "text2": {
+              "value": "value 2",
+              "color": "red",
+              "fontSize": 20,
+              "pos": {
+                "x": 50,
+                "y": 90
+              }
+            }
+          }
+        },
+        "answer": {
+          "targets": {},
+          "locked": false
+        }
+      },
+      "questions": {
+        "_index_": []
+      }
+    }
+  }
+}
+</div>
