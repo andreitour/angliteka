@@ -6097,7 +6097,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 35
+                "y": 25
               },
               "img": "rope_circle",
               "audio": "",
@@ -6128,7 +6128,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 35
+                "y": 25
               },
               "img": "rope_circle",
               "audio": "",
@@ -6159,7 +6159,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 255
+                "y": 235
               },
               "img": "rope_circle",
               "audio": " ",
@@ -6190,7 +6190,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 255
+                "y": 235
               },
               "img": "rope_circle",
               "audio": " ",
@@ -6235,7 +6235,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 35
+                "y": 25
               },
               "img": "star_circle",
               "audio": "",
@@ -6266,7 +6266,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 35
+                "y": 25
               },
               "img": "star_circle",
               "audio": "",
@@ -6297,7 +6297,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 255
+                "y": 235
               },
               "img": "star_circle",
               "audio": " ",
@@ -6328,7 +6328,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 255
+                "y": 235
               },
               "img": "star_circle",
               "audio": " ",
@@ -6373,7 +6373,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 35
+                "y": 25
               },
               "img": "blue_circle",
               "audio": "",
@@ -6404,7 +6404,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 35
+                "y": 25
               },
               "img": "blue_circle",
               "audio": "",
@@ -6435,7 +6435,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 255
+                "y": 235
               },
               "img": "blue_circle",
               "audio": " ",
@@ -6466,7 +6466,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 255
+                "y": 235
               },
               "img": "blue_circle",
               "audio": " ",
@@ -6511,7 +6511,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 35
+                "y": 25
               },
               "img": "music_circle",
               "audio": "",
@@ -6542,7 +6542,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 35
+                "y": 25
               },
               "img": "music_circle",
               "audio": "",
@@ -6573,7 +6573,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 255
+                "y": 235
               },
               "img": "music_circle",
               "audio": " ",
@@ -6604,7 +6604,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 255
+                "y": 235
               },
               "img": "music_circle",
               "audio": " ",
@@ -6644,12 +6644,12 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 200,
-                "height": 200
+                "width": 225,
+                "height": 225
               },
               "pos": {
                 "x": 25,
-                "y": 15
+                "y": 10
               },
               "img": "children_circle",
               "audio": "",
@@ -6658,8 +6658,8 @@
                 "color": "blue",
                 "fontSize": "27",
                 "pos": {
-                  "x": 100,
-                  "y": 110
+                  "x": 115,
+                  "y": 115
                 }
               },
               "text2": {
@@ -6680,7 +6680,7 @@
               },
               "pos": {
                 "x": 515,
-                "y": 10.097277164459229
+                "y": 10
               },
               "img": "children_circle",
               "audio": "",
@@ -6706,12 +6706,12 @@
             "item3": {
               "role": "correct-target",
               "size": {
-                "width": 200,
-                "height": 200
+                "width": 225,
+                "height": 225
               },
               "pos": {
                 "x": 25,
-                "y": 243.2645721435547
+                "y": 235
               },
               "img": "children_circle",
               "audio": " ",
@@ -6720,8 +6720,8 @@
                 "color": " green",
                 "fontSize": "27",
                 "pos": {
-                  "x": 100,
-                  "y": 110
+                  "x": 115,
+                  "y": 115
                 }
               },
               "text2": {
@@ -6742,14 +6742,14 @@
               },
               "pos": {
                 "x": 515.0972900390625,
-                "y": 233.83270263671875
+                "y": 235
               },
               "img": "children_circle",
               "audio": " ",
               "text1": {
                 "value": "last summer",
                 "color": "purple",
-                "fontSize": "20",
+                "fontSize": "23",
                 "pos": {
                   "x": 115,
                   "y": 115
@@ -6925,7 +6925,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 35
+                "y": 25
               },
               "img": "flower1_circle",
               "audio": "",
@@ -6956,14 +6956,14 @@
               },
               "pos": {
                 "x": 540,
-                "y": 35
+                "y": 25
               },
               "img": "flower1_circle",
               "audio": "",
               "text1": {
                 "value": "last weekend",
                 "color": "green",
-                "fontSize": "30",
+                "fontSize": "28",
                 "pos": {
                   "x": 100,
                   "y": 100
@@ -6987,7 +6987,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 255
+                "y": 235
               },
               "img": "flower1_circle",
               "audio": " ",
@@ -7018,14 +7018,14 @@
               },
               "pos": {
                 "x": 540,
-                "y": 255
+                "y": 235
               },
               "img": "flower1_circle",
               "audio": " ",
               "text1": {
                 "value": "his parents",
                 "color": "blue",
-                "fontSize": "35",
+                "fontSize": "30",
                 "pos": {
                   "x": 100,
                   "y": 105
@@ -7063,7 +7063,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 245
+                "y": 235
               },
               "img": "triangle_circle",
               "audio": "",
@@ -7094,7 +7094,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 35
+                "y": 25
               },
               "img": "triangle_circle",
               "audio": "",
@@ -7125,7 +7125,7 @@
               },
               "pos": {
                 "x": 65,
-                "y": 35
+                "y": 25
               },
               "img": "triangle_circle",
               "audio": " ",
@@ -7156,7 +7156,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 245
+                "y": 235
               },
               "img": "triangle_circle",
               "audio": " ",
@@ -7201,7 +7201,7 @@
               },
               "pos": {
                 "x": 35.11674499511719,
-                "y": 15
+                "y": 10
               },
               "img": "chain_circle",
               "audio": "",
@@ -7232,7 +7232,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 15
+                "y": 10
               },
               "img": "chain_circle",
               "audio": "",
@@ -7263,7 +7263,7 @@
               },
               "pos": {
                 "x": 35,
-                "y": 245
+                "y": 228
               },
               "img": "chain_circle",
               "audio": " ",
@@ -7294,7 +7294,7 @@
               },
               "pos": {
                 "x": 540,
-                "y": 255
+                "y": 228
               },
               "img": "chain_circle",
               "audio": " ",
@@ -7366,7 +7366,7 @@
             }
           },
           "item2": {
-            "role": "other",
+            "role": "picture",
             "size": {
               "width": 735,
               "height": 50
@@ -7578,7 +7578,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 600,
                 "height": 50
@@ -7777,7 +7777,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 735,
                 "height": 50
@@ -7976,7 +7976,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 735,
                 "height": 50
@@ -8175,7 +8175,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 680,
                 "height": 50
@@ -8374,7 +8374,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 765,
                 "height": 50
@@ -8573,7 +8573,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 300,
                 "height": 50
@@ -8772,7 +8772,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 525,
                 "height": 50
@@ -8971,7 +8971,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 615,
                 "height": 50
@@ -9170,7 +9170,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 600,
                 "height": 50
@@ -9369,7 +9369,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 400,
                 "height": 50
@@ -9571,7 +9571,7 @@
             }
           },
           "item2": {
-            "role": "other",
+            "role": "picture",
             "size": {
               "width": 600,
               "height": 50
@@ -9783,7 +9783,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 600,
                 "height": 50
@@ -9982,7 +9982,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 600,
                 "height": 50
@@ -10181,7 +10181,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 620,
                 "height": 50
@@ -10380,7 +10380,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 600,
                 "height": 50
@@ -10579,7 +10579,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 600,
                 "height": 50
@@ -10778,7 +10778,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 600,
                 "height": 50
@@ -10977,7 +10977,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 600,
                 "height": 50
@@ -11176,7 +11176,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 600,
                 "height": 50
@@ -11375,7 +11375,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 700,
                 "height": 50
@@ -11574,7 +11574,7 @@
               }
             },
             "item2": {
-              "role": "other",
+              "role": "picture",
               "size": {
                 "width": 600,
                 "height": 50
