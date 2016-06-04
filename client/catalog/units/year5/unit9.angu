@@ -41,7 +41,7 @@
     "a1": {
       "qTemplate": {
         "answerType": "q-select-item",
-        "description": "Question description text",
+        "description": "Listen and choose.",
         "backgroundImg": "background-img",
         "items": {
           "item1": {
@@ -266,7 +266,7 @@
         },
         "q2": {
           "answerType": "q-select-item",
-          "description": "Question description text",
+          "description": "Listen and choose.",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -372,7 +372,7 @@
         },
         "q3": {
           "answerType": "q-select-item",
-          "description": "Question description text",
+          "description": "Listen and choose.",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -478,7 +478,7 @@
         },
         "q4": {
           "answerType": "q-select-item",
-          "description": "Question description text",
+          "description": "Listen and choose.",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -584,7 +584,7 @@
         },
         "q5": {
           "answerType": "q-select-item",
-          "description": "Question description text",
+          "description": "Listen and choose.",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -690,7 +690,7 @@
         },
         "q6": {
           "answerType": "q-select-item",
-          "description": "Question description text",
+          "description": "Listen and choose.",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -796,7 +796,7 @@
         },
         "q7": {
           "answerType": "q-select-item",
-          "description": "Question description text",
+          "description": "Listen and choose.",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -902,7 +902,7 @@
         },
         "q8": {
           "answerType": "q-select-item",
-          "description": "Question description text",
+          "description": "Listen and choose.",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -1008,7 +1008,7 @@
         },
         "q9": {
           "answerType": "q-select-item",
-          "description": "Question description text",
+          "description": "Listen and choose.",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -1114,7 +1114,7 @@
         },
         "q10": {
           "answerType": "q-select-item",
-          "description": "Question description text",
+          "description": "Listen and choose.",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
