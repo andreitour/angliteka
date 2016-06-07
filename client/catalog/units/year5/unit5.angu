@@ -9,7 +9,7 @@
       "said",
       "ran",
       "swam",
-      "gotup"
+      "got_up"
     ],
     "came": {
       "text1": "came",
@@ -35,7 +35,7 @@
       "text1": "swam",
       "text2": "плавал/а"
     },
-    "gotup": {
+    "got_up": {
       "text1": "got up",
       "text2": "встал/а"
     }
@@ -70,7 +70,7 @@
               "y": 59
             },
             "img": "audio_icon",
-            "audio": "q-item-audio",
+            "audio": "came",
             "text1": {
               "value": " ",
               "color": "red",
@@ -91,7 +91,7 @@
             }
           },
           "item2": {
-            "role": "other",
+            "role": "correct-target",
             "size": {
               "width": 200,
               "height": 200
@@ -154,7 +154,9 @@
           }
         },
         "answer": {
-          "targets": {},
+          "targets": {
+            "item2": true
+          },
           "locked": false
         }
       },
@@ -611,7 +613,7 @@
                 "y": 59
               },
               "img": "audio_icon",
-              "audio": "gotup",
+              "audio": "got_up",
               "text1": {
                 "value": " ",
                 "color": "red",
@@ -1141,7 +1143,7 @@
                 "y": 59
               },
               "img": "audio_icon",
-              "audio": "gotup",
+              "audio": "got_up",
               "text1": {
                 "value": " ",
                 "color": "red",
@@ -5958,7 +5960,7 @@
                 "y": 56
               },
               "img": "audio_icon",
-              "audio": "gotup",
+              "audio": "got_up",
               "text1": {
                 "value": " ",
                 "color": "red",
@@ -6917,7 +6919,7 @@
                 "y": 56
               },
               "img": "audio_icon",
-              "audio": "gotup",
+              "audio": "got_up",
               "text1": {
                 "value": " ",
                 "color": "red",
