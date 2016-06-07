@@ -1632,7 +1632,7 @@
               "img": "",
               "audio": "",
               "text1": {
-                "value": "detecive film =",
+                "value": "detecive film ",
                 "color": " purple",
                 "fontSize": "27",
                 "pos": {
@@ -9793,7 +9793,7 @@
               }
             },
             "item4": {
-              "role": "correct-target",
+              "role": "other",
               "size": {
                 "width": 250,
                 "height": 50
@@ -9824,7 +9824,7 @@
               }
             },
             "item5": {
-              "role": "other",
+              "role": "correct-target",
               "size": {
                 "width": 250,
                 "height": 50
@@ -9857,7 +9857,7 @@
           },
           "answer": {
             "targets": {
-              "item4": true
+              "item5": true
             },
             "locked": false
           }
@@ -15970,7 +15970,7 @@
     "a10": {
       "qTemplate": {
         "answerType": "q-input-text1",
-        "description": "Translate the phrase (using the article).",
+        "description": "Translate the phrase (use the article).",
         "backgroundImg": "background-img",
         "items": {
           "item1": {
@@ -16208,7 +16208,7 @@
         },
         "q3": {
           "answerType": "q-input-text1",
-          "description": "Translate the phrase.",
+          "description": "Translate the phrase (use the article).",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16283,7 +16283,7 @@
         },
         "q4": {
           "answerType": "q-input-text1",
-          "description": "Translate the phrase.",
+          "description": "Translate the phrase (use the article).",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16358,7 +16358,7 @@
         },
         "q5": {
           "answerType": "q-input-text1",
-          "description": "Translate the phrase (using the article).",
+          "description": "Translate the phrase (use the article).",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16433,7 +16433,7 @@
         },
         "q6": {
           "answerType": "q-input-text1",
-          "description": "Translate the phrase (using the article).",
+          "description": "Translate the phrase (use the article).",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16508,7 +16508,7 @@
         },
         "q7": {
           "answerType": "q-input-text1",
-          "description": "Translate the phrase (using the article).",
+          "description": "Translate the phrase (use the article).",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16583,7 +16583,7 @@
         },
         "q8": {
           "answerType": "q-input-text1",
-          "description": "Translate the phrase (using the article).",
+          "description": "Translate the phrase (use the article).",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16658,7 +16658,7 @@
         },
         "q9": {
           "answerType": "q-input-text1",
-          "description": "Translate the phrase (using the article).",
+          "description": "Translate the phrase (use the article).",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16733,7 +16733,7 @@
         },
         "q10": {
           "answerType": "q-input-text1",
-          "description": "Translate the phrase (using the article).",
+          "description": "Translate the phrase (use the article).",
           "backgroundImg": "background-img",
           "items": {
             "item1": {

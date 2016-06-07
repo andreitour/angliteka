@@ -9,7 +9,7 @@
       "said",
       "ran",
       "swam",
-      "got_up"
+      "gotup"
     ],
     "came": {
       "text1": "came",
@@ -35,7 +35,7 @@
       "text1": "swam",
       "text2": "плавал/а"
     },
-    "got_up": {
+    "gotup": {
       "text1": "got up",
       "text2": "встал/а"
     }
@@ -70,7 +70,7 @@
               "y": 59
             },
             "img": "audio_icon",
-            "audio": "came",
+            "audio": "q-item-audio",
             "text1": {
               "value": " ",
               "color": "red",
@@ -91,7 +91,7 @@
             }
           },
           "item2": {
-            "role": "correct-target",
+            "role": "other",
             "size": {
               "width": 200,
               "height": 200
@@ -154,9 +154,7 @@
           }
         },
         "answer": {
-          "targets": {
-            "item2": true
-          },
+          "targets": {},
           "locked": false
         }
       },
@@ -175,7 +173,7 @@
         ],
         "q1": {
           "answerType": "q-select-item",
-          "description": "Listen and choose. Прослушай и выбери правильную картинку. ",
+          "description": "Listen and choose.  ",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -281,7 +279,7 @@
         },
         "q2": {
           "answerType": "q-select-item",
-          "description": "Listen and choose. Прослушай и выбери правильную картинку. ",
+          "description": "Listen and choose. ",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -387,7 +385,7 @@
         },
         "q3": {
           "answerType": "q-select-item",
-          "description": "Listen and choose. Прослушай и выбери правильную картинку. ",
+          "description": "Listen and choose.  ",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -493,7 +491,7 @@
         },
         "q4": {
           "answerType": "q-select-item",
-          "description": "Listen and choose. Прослушай и выбери правильную картинку. ",
+          "description": "Listen and choose.  ",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -599,7 +597,7 @@
         },
         "q5": {
           "answerType": "q-select-item",
-          "description": "Listen and choose. Прослушай и выбери правильную картинку. ",
+          "description": "Listen and choose. ",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -613,7 +611,7 @@
                 "y": 59
               },
               "img": "audio_icon",
-              "audio": "got_up",
+              "audio": "gotup",
               "text1": {
                 "value": " ",
                 "color": "red",
@@ -705,7 +703,7 @@
         },
         "q6": {
           "answerType": "q-select-item",
-          "description": "Listen and choose. Прослушай и выбери правильную картинку. ",
+          "description": "Listen and choose. ",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -811,7 +809,7 @@
         },
         "q7": {
           "answerType": "q-select-item",
-          "description": "Listen and choose. Прослушай и выбери правильную картинку. ",
+          "description": "Listen and choose.  ",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -917,7 +915,7 @@
         },
         "q8": {
           "answerType": "q-select-item",
-          "description": "Listen and choose. Прослушай и выбери правильную картинку. ",
+          "description": "Listen and choose.  ",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -1023,7 +1021,7 @@
         },
         "q9": {
           "answerType": "q-select-item",
-          "description": "Listen and choose. Прослушай и выбери правильную картинку. ",
+          "description": "Listen and choose.  ",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -1129,7 +1127,7 @@
         },
         "q10": {
           "answerType": "q-select-item",
-          "description": "Listen and choose. Прослушай и выбери правильную картинку. ",
+          "description": "Listen and choose. ",
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -1143,7 +1141,7 @@
                 "y": 59
               },
               "img": "audio_icon",
-              "audio": "got_up",
+              "audio": "gotup",
               "text1": {
                 "value": " ",
                 "color": "red",
@@ -5960,7 +5958,7 @@
                 "y": 56
               },
               "img": "audio_icon",
-              "audio": "got_up",
+              "audio": "gotup",
               "text1": {
                 "value": " ",
                 "color": "red",
@@ -6919,7 +6917,7 @@
                 "y": 56
               },
               "img": "audio_icon",
-              "audio": "got_up",
+              "audio": "gotup",
               "text1": {
                 "value": " ",
                 "color": "red",
