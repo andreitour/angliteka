@@ -1632,7 +1632,11 @@
               "img": "",
               "audio": "",
               "text1": {
+<<<<<<< HEAD
                 "value": "detecive film ",
+=======
+                "value": "detecive film =",
+>>>>>>> master
                 "color": " purple",
                 "fontSize": "27",
                 "pos": {
@@ -9793,7 +9797,11 @@
               }
             },
             "item4": {
+<<<<<<< HEAD
               "role": "other",
+=======
+              "role": "correct-target",
+>>>>>>> master
               "size": {
                 "width": 250,
                 "height": 50
@@ -9824,7 +9832,11 @@
               }
             },
             "item5": {
+<<<<<<< HEAD
               "role": "correct-target",
+=======
+              "role": "other",
+>>>>>>> master
               "size": {
                 "width": 250,
                 "height": 50
@@ -9857,7 +9869,11 @@
           },
           "answer": {
             "targets": {
+<<<<<<< HEAD
               "item5": true
+=======
+              "item4": true
+>>>>>>> master
             },
             "locked": false
           }
@@ -15970,7 +15986,11 @@
     "a10": {
       "qTemplate": {
         "answerType": "q-input-text1",
+<<<<<<< HEAD
         "description": "Translate the phrase (use the article).",
+=======
+        "description": "Translate the phrase (using the article).",
+>>>>>>> master
         "backgroundImg": "background-img",
         "items": {
           "item1": {
@@ -16208,7 +16228,11 @@
         },
         "q3": {
           "answerType": "q-input-text1",
+<<<<<<< HEAD
           "description": "Translate the phrase (use the article).",
+=======
+          "description": "Translate the phrase.",
+>>>>>>> master
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16283,7 +16307,11 @@
         },
         "q4": {
           "answerType": "q-input-text1",
+<<<<<<< HEAD
           "description": "Translate the phrase (use the article).",
+=======
+          "description": "Translate the phrase.",
+>>>>>>> master
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16358,7 +16386,11 @@
         },
         "q5": {
           "answerType": "q-input-text1",
+<<<<<<< HEAD
           "description": "Translate the phrase (use the article).",
+=======
+          "description": "Translate the phrase (using the article).",
+>>>>>>> master
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16433,7 +16465,11 @@
         },
         "q6": {
           "answerType": "q-input-text1",
+<<<<<<< HEAD
           "description": "Translate the phrase (use the article).",
+=======
+          "description": "Translate the phrase (using the article).",
+>>>>>>> master
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16508,7 +16544,11 @@
         },
         "q7": {
           "answerType": "q-input-text1",
+<<<<<<< HEAD
           "description": "Translate the phrase (use the article).",
+=======
+          "description": "Translate the phrase (using the article).",
+>>>>>>> master
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16583,7 +16623,11 @@
         },
         "q8": {
           "answerType": "q-input-text1",
+<<<<<<< HEAD
           "description": "Translate the phrase (use the article).",
+=======
+          "description": "Translate the phrase (using the article).",
+>>>>>>> master
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16658,7 +16702,11 @@
         },
         "q9": {
           "answerType": "q-input-text1",
+<<<<<<< HEAD
           "description": "Translate the phrase (use the article).",
+=======
+          "description": "Translate the phrase (using the article).",
+>>>>>>> master
           "backgroundImg": "background-img",
           "items": {
             "item1": {
@@ -16733,7 +16781,11 @@
         },
         "q10": {
           "answerType": "q-input-text1",
+<<<<<<< HEAD
           "description": "Translate the phrase (use the article).",
+=======
+          "description": "Translate the phrase (using the article).",
+>>>>>>> master
           "backgroundImg": "background-img",
           "items": {
             "item1": {

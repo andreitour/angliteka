@@ -160,7 +160,11 @@
         ],
         "q1": {
           "answerType": "q-select-item",
+<<<<<<< HEAD
           "description": "Listen and choose.",
+=======
+          "description": "Question description text",
+>>>>>>> master
           "backgroundImg": "background-img",
           "items": {
             "item1": {
