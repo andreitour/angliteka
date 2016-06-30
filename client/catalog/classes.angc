@@ -30,7 +30,7 @@
         "c5": { 
             "title":"Year 5", 
             "state":"active",
-            "units": {"_index_": ["u2","u3","u4","u5","u6","u7","u8","u9","u10","u11"],
+            "units": {"_index_": ["u2","u3","u4","u5","u6","u7","u8","u9","u10","u11","u12"],
                 "u2":{"uri":"year5/unit2", "title":"Unit 2"},
                 "u3":{"uri":"year5/unit3", "title":"Unit 3"},
                 "u4":{"uri":"year5/unit4", "title":"Unit 4"},
@@ -40,7 +40,8 @@
                 "u8":{"uri":"year5/unit8", "title":"Unit 8"},
                 "u9":{"uri":"year5/unit9", "title":"Unit 9"},
                 "u10":{"uri":"year5/unit10", "title":"Unit 10"},
-                "u11":{"uri":"year5/unit11", "title":"Unit 11"}
+                "u11":{"uri":"year5/unit11", "title":"Unit 11"},
+                "u12":{"uri":"year5/unit12", "title":"Unit 12"}
             } 
         }
     }
