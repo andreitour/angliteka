@@ -3090,7 +3090,7 @@
                 "x": 325,
                 "y": 270
               },
-              "img": "purpule_star",
+              "img": "purple_star",
               "audio": "",
               "text1": {
                 "value": "9",
@@ -3393,7 +3393,7 @@
                 "x": 550,
                 "y": 270
               },
-              "img": "purpule_star",
+              "img": "purple_star",
               "audio": "",
               "text1": {
                 "value": "8",
@@ -3739,7 +3739,7 @@
                 "x": 100,
                 "y": 270
               },
-              "img": "purpule_star",
+              "img": "purple_star",
               "audio": "",
               "text1": {
                 "value": "7",
@@ -4042,7 +4042,7 @@
                 "x": 325,
                 "y": 270
               },
-              "img": "purpule_star",
+              "img": "purple_star",
               "audio": "",
               "text1": {
                 "value": "9",
@@ -4242,7 +4242,7 @@
     "a4": {
       "qTemplate": {
         "answerType": "q-select-links-dnd",
-        "description": "Question description text",
+        "description": "Перетяни нужное слово. Drag and drop the right word.",
         "backgroundImg": "background-img",
         "answer": {
           "targets": {
@@ -4422,7 +4422,7 @@
         ],
         "q1": {
           "answerType": "q-select-links-dnd",
-          "description": "Question description text",
+          "description": "Перетяни нужное слово. Drag and drop the right word.",
           "backgroundImg": "background-img",
           "answer": {
             "targets": {
@@ -4589,7 +4589,7 @@
         },
         "q2": {
           "answerType": "q-select-links-dnd",
-          "description": "Question description text",
+          "description": "Перетяни нужное слово. Drag and drop the right word.",
           "backgroundImg": "background-img",
           "answer": {
             "targets": {
@@ -4756,7 +4756,7 @@
         },
         "q3": {
           "answerType": "q-select-links-dnd",
-          "description": "Question description text",
+          "description": "Перетяни нужное слово. Drag and drop the right word.",
           "backgroundImg": "background-img",
           "answer": {
             "targets": {
@@ -4923,7 +4923,7 @@
         },
         "q4": {
           "answerType": "q-select-links-dnd",
-          "description": "Question description text",
+          "description": "Перетяни нужное слово. Drag and drop the right word.",
           "backgroundImg": "background-img",
           "answer": {
             "targets": {
@@ -5090,7 +5090,7 @@
         },
         "q5": {
           "answerType": "q-select-links-dnd",
-          "description": "Question description text",
+          "description": "Перетяни нужное слово. Drag and drop the right word.",
           "backgroundImg": "background-img",
           "answer": {
             "targets": {
@@ -5257,7 +5257,7 @@
         },
         "q6": {
           "answerType": "q-select-links-dnd",
-          "description": "Question description text",
+          "description": "Перетяни нужное слово. Drag and drop the right word.",
           "backgroundImg": "background-img",
           "answer": {
             "targets": {
@@ -5424,7 +5424,7 @@
         },
         "q7": {
           "answerType": "q-select-links-dnd",
-          "description": "Question description text",
+          "description": "Перетяни нужное слово. Drag and drop the right word.",
           "backgroundImg": "background-img",
           "answer": {
             "targets": {
@@ -5591,7 +5591,7 @@
         },
         "q8": {
           "answerType": "q-select-links-dnd",
-          "description": "Question description text",
+          "description": "Перетяни нужное слово. Drag and drop the right word.",
           "backgroundImg": "background-img",
           "answer": {
             "targets": {
@@ -5758,7 +5758,7 @@
         },
         "q9": {
           "answerType": "q-select-links-dnd",
-          "description": "Question description text",
+          "description": "Перетяни нужное слово. Drag and drop the right word.",
           "backgroundImg": "background-img",
           "answer": {
             "targets": {
@@ -5925,7 +5925,7 @@
         },
         "q10": {
           "answerType": "q-select-links-dnd",
-          "description": "Question description text",
+          "description": "Перетяни нужное слово. Drag and drop the right word.",
           "backgroundImg": "background-img",
           "answer": {
             "targets": {
@@ -15785,11 +15785,11 @@
           "item1": {
             "role": "correct-target",
             "size": {
-              "width": 150,
-              "height": 150
+              "width": 250,
+              "height": 50
             },
             "pos": {
-              "x": 336.1556396484375,
+              "x": 283,
               "y": 337.4163360595703
             },
             "img": "",
@@ -15799,17 +15799,17 @@
               "color": "black",
               "fontSize": "60",
               "pos": {
-                "x": 50,
-                "y": 50
+                "x": 125,
+                "y": 45
               }
             },
             "text2": {
-              "value": "",
-              "color": "red",
-              "fontSize": 20,
+              "value": "_______",
+              "color": "blue",
+              "fontSize": 60,
               "pos": {
-                "x": 50,
-                "y": 90
+                "x": 125,
+                "y": 45
               }
             }
           },
@@ -15872,11 +15872,11 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 150,
-                "height": 150
+                "width": 250,
+                "height": 50
               },
               "pos": {
-                "x": 336.1556396484375,
+                "x": 283,
                 "y": 337.4163360595703
               },
               "img": "",
@@ -15886,17 +15886,17 @@
                 "color": "black",
                 "fontSize": "60",
                 "pos": {
-                  "x": 50,
-                  "y": 50
+                  "x": 125,
+                  "y": 45
                 }
               },
               "text2": {
                 "value": "",
                 "color": "red",
-                "fontSize": 20,
+                "fontSize": 60,
                 "pos": {
-                  "x": 50,
-                  "y": 90
+                  "x": 125,
+                  "y": 45
                 }
               }
             },
@@ -15946,11 +15946,11 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 150,
-                "height": 150
+                "width": 250,
+                "height": 50
               },
               "pos": {
-                "x": 336.1556396484375,
+                "x": 283,
                 "y": 337.4163360595703
               },
               "img": "",
@@ -15960,17 +15960,17 @@
                 "color": "black",
                 "fontSize": "60",
                 "pos": {
-                  "x": 50,
-                  "y": 50
+                  "x": 125,
+                  "y": 45
                 }
               },
               "text2": {
-                "value": "",
-                "color": "red",
-                "fontSize": 20,
+                "value": "_______",
+                "color": "blue",
+                "fontSize": 60,
                 "pos": {
-                  "x": 50,
-                  "y": 90
+                  "x": 125,
+                  "y": 45
                 }
               }
             },
@@ -16020,11 +16020,11 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 150,
-                "height": 150
+                "width": 250,
+                "height": 50
               },
               "pos": {
-                "x": 336.1556396484375,
+                "x": 283,
                 "y": 337.4163360595703
               },
               "img": "",
@@ -16034,17 +16034,17 @@
                 "color": "black",
                 "fontSize": "60",
                 "pos": {
-                  "x": 50,
-                  "y": 50
+                  "x": 125,
+                  "y": 45
                 }
               },
               "text2": {
-                "value": "",
-                "color": "red",
-                "fontSize": 20,
+                "value": "_______",
+                "color": "green",
+                "fontSize": 60,
                 "pos": {
-                  "x": 50,
-                  "y": 90
+                  "x": 125,
+                  "y": 45
                 }
               }
             },
@@ -16094,11 +16094,11 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 150,
-                "height": 150
+                "width": 250,
+                "height": 50
               },
               "pos": {
-                "x": 336.1556396484375,
+                "x": 283,
                 "y": 337.4163360595703
               },
               "img": "",
@@ -16108,17 +16108,17 @@
                 "color": "black",
                 "fontSize": "60",
                 "pos": {
-                  "x": 50,
-                  "y": 50
+                  "x": 125,
+                  "y": 45
                 }
               },
               "text2": {
-                "value": "",
-                "color": "red",
-                "fontSize": 20,
+                "value": "_______",
+                "color": "purple",
+                "fontSize": 60,
                 "pos": {
-                  "x": 50,
-                  "y": 90
+                  "x": 125,
+                  "y": 45
                 }
               }
             },
@@ -16168,11 +16168,11 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 150,
-                "height": 150
+                "width": 250,
+                "height": 50
               },
               "pos": {
-                "x": 336.1556396484375,
+                "x": 283,
                 "y": 337.4163360595703
               },
               "img": "",
@@ -16182,17 +16182,17 @@
                 "color": "black",
                 "fontSize": "60",
                 "pos": {
-                  "x": 50,
-                  "y": 50
+                  "x": 125,
+                  "y": 45
                 }
               },
               "text2": {
-                "value": "",
-                "color": "red",
-                "fontSize": 20,
+                "value": "_______",
+                "color": "orange",
+                "fontSize": 60,
                 "pos": {
-                  "x": 50,
-                  "y": 90
+                  "x": 125,
+                  "y": 45
                 }
               }
             },
@@ -16242,11 +16242,11 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 150,
-                "height": 150
+                "width": 250,
+                "height": 50
               },
               "pos": {
-                "x": 336.1556396484375,
+                "x": 283,
                 "y": 337.4163360595703
               },
               "img": "",
@@ -16256,17 +16256,17 @@
                 "color": "black",
                 "fontSize": "60",
                 "pos": {
-                  "x": 50,
-                  "y": 50
+                  "x": 125,
+                  "y": 45
                 }
               },
               "text2": {
-                "value": "",
+                "value": "_______",
                 "color": "red",
-                "fontSize": 20,
+                "fontSize": 60,
                 "pos": {
-                  "x": 50,
-                  "y": 90
+                  "x": 125,
+                  "y": 45
                 }
               }
             },
@@ -16316,11 +16316,11 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 150,
-                "height": 150
+                "width": 250,
+                "height": 50
               },
               "pos": {
-                "x": 336.1556396484375,
+                "x": 283,
                 "y": 337.4163360595703
               },
               "img": "",
@@ -16330,17 +16330,17 @@
                 "color": "black",
                 "fontSize": "60",
                 "pos": {
-                  "x": 50,
-                  "y": 50
+                  "x": 125,
+                  "y": 45
                 }
               },
               "text2": {
-                "value": "",
-                "color": "red",
-                "fontSize": 20,
+                "value": "_______",
+                "color": "blue",
+                "fontSize": 60,
                 "pos": {
-                  "x": 50,
-                  "y": 90
+                  "x": 125,
+                  "y": 45
                 }
               }
             },
@@ -16390,11 +16390,11 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 150,
-                "height": 150
+                "width": 250,
+                "height": 50
               },
               "pos": {
-                "x": 336.1556396484375,
+                "x": 283,
                 "y": 337.4163360595703
               },
               "img": "",
@@ -16404,17 +16404,17 @@
                 "color": "black",
                 "fontSize": "60",
                 "pos": {
-                  "x": 50,
-                  "y": 50
+                  "x": 125,
+                  "y": 45
                 }
               },
               "text2": {
-                "value": "",
-                "color": "red",
-                "fontSize": 20,
+                "value": "_______",
+                "color": "purple",
+                "fontSize": 60,
                 "pos": {
-                  "x": 50,
-                  "y": 90
+                  "x": 125,
+                  "y": 45
                 }
               }
             },
@@ -16464,11 +16464,11 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 150,
-                "height": 150
+                "width": 250,
+                "height": 50
               },
               "pos": {
-                "x": 336.1556396484375,
+                "x": 283,
                 "y": 337.4163360595703
               },
               "img": "",
@@ -16478,17 +16478,17 @@
                 "color": "black",
                 "fontSize": "60",
                 "pos": {
-                  "x": 50,
-                  "y": 50
+                  "x": 125,
+                  "y": 45
                 }
               },
               "text2": {
-                "value": "",
-                "color": "red",
-                "fontSize": 20,
+                "value": "_______",
+                "color": "orange",
+                "fontSize": 60,
                 "pos": {
-                  "x": 50,
-                  "y": 90
+                  "x": 125,
+                  "y": 45
                 }
               }
             },
@@ -16538,11 +16538,11 @@
             "item1": {
               "role": "correct-target",
               "size": {
-                "width": 150,
-                "height": 150
+                "width": 250,
+                "height": 50
               },
               "pos": {
-                "x": 336.1556396484375,
+                "x": 283,
                 "y": 337.4163360595703
               },
               "img": "",
@@ -16552,17 +16552,17 @@
                 "color": "black",
                 "fontSize": "60",
                 "pos": {
-                  "x": 50,
-                  "y": 50
+                  "x": 125,
+                  "y": 45
                 }
               },
               "text2": {
-                "value": "",
-                "color": "red",
-                "fontSize": 20,
+                "value": "_______",
+                "color": "blue",
+                "fontSize": 60,
                 "pos": {
-                  "x": 50,
-                  "y": 90
+                  "x": 125,
+                  "y": 45
                 }
               }
             },
