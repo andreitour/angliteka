@@ -6,7 +6,7 @@
         "c3": { 
             "title":"Year 3", 
             "state":"active",
-            "units": {"_index_": ["u1","u2","u3","u4","u5","u6","u7","u8","u9"],
+            "units": {"_index_": ["u1","u2","u3","u4","u5","u6","u7","u8","u9","u10","u11","u12","u13"],
 		"u1":{"uri":"year3/unit1", "title":"Unit 1 - Numbers - part 1"},                
 		"u2":{"uri":"year3/unit2", "title":"Unit 2 - Numbers - part 2"},
                 "u3":{"uri":"year3/unit3", "title":"Unit 3 - Colours - part 1"},
@@ -15,8 +15,12 @@
                 "u6":{"uri":"year3/unit6", "title":"Unit 6 - Look at me - part 1"},
 		"u7":{"uri":"year3/unit7", "title":"Unit 7 - Look at me - part 2"},
 		"u8":{"uri":"year3/unit8", "title":"Unit 8 - In a pet shop - part 1"},
-                "u9":{"uri":"year3/unit9", "title":"Unit 9 -  - HI part 1"}
-            } 
+                "u9":{"uri":"year3/unit9", "title":"Unit 9"},
+                "u10":{"uri":"year3/unit10", "title":"Unit 10"},
+                "u11":{"uri":"year3/unit11", "title":"Unit 11"},
+                "u12":{"uri":"year3/unit12", "title":"Unit 12"},
+                "u13":{"uri":"year3/unit13", "title":"Unit 13"}
+	    } 
         },
         "c4": { 
             "title":"Year 4", 
@@ -52,5 +56,3 @@
     }
 }
 </div>
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
